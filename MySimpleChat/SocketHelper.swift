@@ -14,7 +14,7 @@ class SocketHelper: NSObject {
     
     private var manager: SocketManager?
     
-    let host = "http://192.168.86.123:3001"
+    let host = "http://IP:Port"
     let connectUser = "connectUser"
     let userList = "userList"
     let exitUser = "exitUser"
